@@ -31,106 +31,16 @@
       "isInCart": false
     },
     {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
-    },
-    {
-      "name": "",
-      "category": "Produce",
+      "name": "Biscuits",
+      "category": "Dairy",
       "isInCart": false,
       "id": 7
     },
     {
-      "name": "Biscuits",
-      "category": "Produce",
+      "name": "Chocolates",
+      "category": "Dessert",
       "isInCart": false,
       "id": 8
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 9
-    },
-    {
-      "name": "C",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 10
-    },
-    {
-      "name": "Ch",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 11
-    },
-    {
-      "name": "Cho",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 12
-    },
-    {
-      "name": "Choc",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 13
-    },
-    {
-      "name": "Choco",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 14
-    },
-    {
-      "name": "Chocol",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 15
-    },
-    {
-      "name": "Chocola",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 16
-    },
-    {
-      "name": "Chocolat",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 17
-    },
-    {
-      "name": "Chocolate",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 18
-    },
-    {
-      "name": "Chocolates",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 19
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 20
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 21
-    },
-    {
-      "name": "Biscuits",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 22
-    } 
+    }
   ]
 }
